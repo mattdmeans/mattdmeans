@@ -1,4 +1,4 @@
-### Hello! I'm Matt and I'm a data scientist familiar with the gathering, mining, and organizing data for the use of technical and non-technical work. Proficient understanding of statistical, algebraic, and other analytical techniques. Currently a DS student at Lambda School.
+### Hello! I'm Matt and I'm a data scientist familiar with the gathering, mining, and organizing data for the use of technical and non-technical work. Proficient understanding of statistical, algebraic, and other analytical techniques.
 
 ### Feel free to contact me at the following
 ### email: matthewdmeans@gmail.com
